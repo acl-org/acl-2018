@@ -3,6 +3,7 @@ description: 56th Annual Meeting of the Association for Computational Linguistic
 author: The ACL 2018 Organising Committee
 # email: your-email@domain.com
 # baseurl: "/acl2018-website"
+baseurl: ""
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
